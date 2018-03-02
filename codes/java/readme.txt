@@ -1,2 +1,2 @@
 this is a java introduction.
-java a good language.
+java maybe is a good language.
